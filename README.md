@@ -15,7 +15,7 @@ KathaSangam is an AI-powered story generator designed to create captivating stor
 ## Architecture
 
 ![KathaSangam Architecture](Archi.png)
-![KathaSangam WorkFlow](Flow.jgp)
+![KathaSangam WorkFlow](Flow.jpg)
 
 ## Getting Started
 
